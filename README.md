@@ -67,7 +67,7 @@ To demonstrate how proper preprocessing improves data quality and lays the found
 
 ## 👤 Author
 
-**Vansh Patel**
+harshvi shah
 
 ---
 
